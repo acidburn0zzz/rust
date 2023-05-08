@@ -17,7 +17,7 @@ tar = "0.4.38"
 walkdir = "2"
 xz2 = "0.1.4"
 num_cpus = "1"
-remove_dir_all = "0.5"
+remove_dir_all = "0.8"
 
 [dependencies.clap]
 features = ["derive"]
